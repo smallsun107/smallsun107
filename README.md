@@ -4,7 +4,7 @@
 - 🔭 Android & Reverse
 - ⚡ C/C++ / Python.
 
-<img align="right" src="[![smallsun107's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallsun107)](https://github.com/smallsun107/)" />
+[![smallsun107's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallsun107)](https://github.com/smallsun107/)
 
 <!--
 **smallsun107/smallsun107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
