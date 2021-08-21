@@ -5,7 +5,7 @@
 - ⚡ C / C++ / Python.
 
 [![smallsun107's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallsun107&show_icons=true&theme=dracula)](https://github.com/smallsun107/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallsun107&layout=compact)](https://github.com/smallsun107/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallsun107&layout=compact&theme=dracula)](https://github.com/smallsun107/)
 
 
 <!--
