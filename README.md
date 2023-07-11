@@ -1,7 +1,8 @@
 ### Hello World 👋
+![](https://komarev.com/ghpvc/?username=smallsun107&color=ff69b4)
 
 - 🌱 I’m currently learning ...
-- 🔭 Android & Reverse
+- 🔭 Reverse Engineer
 - ⚡ C / C++ / Python.
 
 <div>
