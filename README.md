@@ -5,6 +5,8 @@
 - 🔭 Reverse Engineer
 - ⚡ C / C++ / Python.
 
+---
+
 <div>
   <a href="https://github.com/smallsun107">
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallsun107&layout=compact&theme=dracula" />
