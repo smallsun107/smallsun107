@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ...
 - 🔭 Reverse Engineer
-- ⚡ C / C++ / Python.
+- ⚡ C / C++ / Golang / Python.
 
 ---
 
