@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=smallsun107&color=ff69b4)
 
 - 🌱 I’m currently learning ...
-- 🔭 Reverse Engineer
+- 🔭 Reverse Engineer | Security researcher
 - ⚡ C / C++ / Golang / Python.
 
 ---
